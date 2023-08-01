@@ -1,0 +1,30 @@
+{
+  "ModId": "p4g.cutscene.GRAHHH",
+  "ModName": "Persona 4 Anime Openings",
+  "ModAuthor": "A Mudkip",
+  "ModVersion": "1.0.0",
+  "ModDescription": "SDK better :true:.",
+  "ModDll": "My_Reloaded-II_Mod1.dll",
+  "ModIcon": "23.jpg",
+  "ModR2RManagedDll32": "x86/My_Reloaded-II_Mod1.dll",
+  "ModR2RManagedDll64": "x64/My_Reloaded-II_Mod1.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [],
+  "CanUnload": false,
+  "HasExports": false,
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "p4g.cutscene.GRAHHH.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "crifs.v2.hook",
+    "p5rpc.modloader",
+    "reloaded.sharedlib.hooks"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "p4g.exe"
+  ],
+  "ProjectUrl": ""
+}
